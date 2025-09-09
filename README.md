@@ -1,4 +1,4 @@
-# 📡 WiFi Şifre Görüntüleyici
+# 📡 WiFi Şifre Görüntüleyici / echoFi
 
 Bu uygulama, bilgisayarınızda kayıtlı olan Wi-Fi ağlarının şifrelerini 🔑 görüntülemek için tasarlanmış basit bir WinForms programıdır. `netsh wlan` komutunu kullanarak ağ profillerini ve şifrelerini alır ve kullanıcı dostu bir arayüzde gösterir.
 
